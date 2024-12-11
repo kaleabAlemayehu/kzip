@@ -1,4 +1,4 @@
-package main
+package huffman
 
 type HuffBaseNode interface {
 	IsLeaf() bool
